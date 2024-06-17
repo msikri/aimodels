@@ -4,3 +4,17 @@ MSS: Model sum of squares
 TSS: Total sum of squares
 
 R2=1-MSS/TSS
+Variability of y explained in model
+Assumptions made in model 
+y=a+bx
+1.) Linearity
+
+Linearity assumption is nor sufficient ( Reason)
+We are trying to generalize for population from sample
+
+There is an error in assumption of normal values so other assumptions are 
+2.) Error terms are normally distributed
+3.) Error terms are not independent of each other
+4.) Error terms are indepedent not time series data where new value is dependent on previous values
+5.) There is no assumption on distribution of x and y
+6.) Error terms have const variance ( if this is not there then it will be unreliable)
